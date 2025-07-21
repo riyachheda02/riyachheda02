@@ -1,4 +1,4 @@
-# ✨️ Hello, myself Riya
+# ✨️ Hello, myself Riya!
 🎓 I'm a Computer Engineering student passionate about building cool things with code<br>🧑‍💻 I'm currently working on full-stack and mobile applications using React, Node.js, and React Native<br>🧠 I'm committed to learning and growing in the fields of AI, Machine Learning, and App Development<br>🤝 I love collaborating on open-source and real-world tech projects<br>👨‍🏫 I'm currently learning Firebase, Tailwind CSS, and MongoDB<br>💬 Let's connect! I enjoy networking with developers and tech enthusiasts<br>🚀 I aim to build impactful and scalable apps that solve real problems<br>♟️ Fun fact: I love playing chess — it sharpens my mind and helps me think strategically!
 
 
